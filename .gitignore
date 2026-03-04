@@ -11,6 +11,9 @@ build/
 *.so
 *.dylib
 
+# C/C++ format
+.clang-format
+
 # Dependency files
 *.d
 
