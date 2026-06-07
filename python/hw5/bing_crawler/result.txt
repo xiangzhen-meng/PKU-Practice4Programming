@@ -1,0 +1,61 @@
+$myself
+I
+yours truly
+me
+$myself
+$new
+novel
+newfangled
+original
+latest
+recent
+$name
+call
+christen
+baptize
+identify
+specifyn.first name
+Christian name
+designation
+appellation
+reputation
+$name
+$class
+group
+set
+lesson
+period
+refinementv.categorize
+classify
+assign
+brand
+arrange
+$class
+$old
+$school
+university
+college
+seminary
+conservatory
+graduate schoolv.train
+instruct
+educate
+discipline
+teach
+$phone
+call
+ring
+ring up
+buzz
+telephonen.handset
+receiver
+headset
+mobile phone
+mobile
+$body
+form
+figure
+frame
+physique
+corpse
+$head
